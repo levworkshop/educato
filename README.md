@@ -1,6 +1,6 @@
 # Educato
 
-Demonstrates how to work with lists, filter and sort, and the mindeset behinde Angular vs React.
+Demonstrates how to work with lists, filter and sort, and the mindeset behind Angular vs React.
 
 ## Description
 View the records of lecturers and languages as a list.  
